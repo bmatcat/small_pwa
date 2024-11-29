@@ -1,0 +1,31 @@
+/* main css*/
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fdfbfb;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    color: #0cc1ee;
+}
+/* Table Style */
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+th {
+    background-color: #f9f9f9;
+}
+
+img {
+    width:300px;
+    height:auto;
+}
